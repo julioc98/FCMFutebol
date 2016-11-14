@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "691079989663",
+    "firebase_url": "https://fcmfutebol-6a379.firebaseio.com",
+    "project_id": "fcmfutebol-6a379",
+    "storage_bucket": "fcmfutebol-6a379.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691079989663:android:1919d7d65e9c4c38",
+        "android_client_info": {
+          "package_name": "com.example.julioc98.fcmfutebol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691079989663-cu9opt51dh7l47nlmrgrvgu3macjof8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqeZOmOHsKnzV-Kar4b35cYoumDAT9DIk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
